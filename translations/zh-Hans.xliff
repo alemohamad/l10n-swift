@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="L10N/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8B62"/>
+    </header>
+    <body/>
+  </file>
+  <file original="L10N/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8B62"/>
+    </header>
+    <body>
+      <trans-unit id="1mB-Fy-wXl.text">
+        <source>We are learning how to work with localization.</source>
+        <target>我们正在学习如何使用本地化。</target>
+        <note>Class = "UILabel"; text = "We are learning how to work with localization."; ObjectID = "1mB-Fy-wXl";</note>
+      </trans-unit>
+      <trans-unit id="QUr-Ue-r0v.title">
+        <source>Greetings App</source>
+        <target>应用的问候</target>
+        <note>Class = "UINavigationItem"; title = "Greetings App"; ObjectID = "QUr-Ue-r0v";</note>
+      </trans-unit>
+      <trans-unit id="c1a-SA-bXf.placeholder">
+        <source>Your name</source>
+        <target>你的名字</target>
+        <note>Class = "UITextField"; placeholder = "Your name"; ObjectID = "c1a-SA-bXf";</note>
+      </trans-unit>
+      <trans-unit id="fO0-Tb-11H.normalTitle">
+        <source>Say hello!</source>
+        <target>问好！</target>
+        <note>Class = "UIButton"; normalTitle = "Say hello!"; ObjectID = "fO0-Tb-11H";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="L10N/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8B62"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="L10N/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8B62"/>
+    </header>
+    <body>
+      <trans-unit id="Greetings!">
+        <source>Greetings!</source>
+        <note>Title of the alert message.</note><target>问候！</target>
+      </trans-unit>
+      <trans-unit id="Hello %@!\nThanks for using our app. :D">
+        <source>Hello %@!
+Thanks for using our app. :D</source>
+        <note>Message saying hello to the user.</note><target>你好%@！
+感谢您使用我们的应用程序。</target>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <note>Button action when the name is not empty.</note><target>好</target>
+      </trans-unit>
+      <trans-unit id="Oh, no!">
+        <source>Oh, no!</source>
+        <note>Button action when the name is empty.</note><target>不好了！</target>
+      </trans-unit>
+      <trans-unit id="So you don't want to be greeted by this app? Don't you like us?">
+        <source>So you don't want to be greeted by this app? Don't you like us?</source>
+        <note>Message for the user when the name is empty.</note><target>所以你不想被这个应用程序打招呼？ 你不喜欢我们吗？</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
