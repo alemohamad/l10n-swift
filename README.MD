@@ -2,17 +2,18 @@
 
 Presentación para [#SwiftBA](https://twitter.com/search?q=swiftba) [(1ro de Diciembre de 2016)](https://www.meetup.com/SwiftBA/events/234648546/)
 
-[Mirá la presentación](https://talks.alemohamad.com/l10n-swift/)
+* [Mirá la presentación](https://talks.alemohamad.com/l10n-swift/)
+* [Y también está el video de la Meetup!](https://youtu.be/Wtcfnq8WMdI) :D
 
-[Y también está el video de la Meetup!](https://youtu.be/Wtcfnq8WMdI) :D
-
-## Sobre esta charla / About this talk
+## Sobre esta presentación / About this talk
 
 Las aplicaciones no son solo para Argentina o Estados Unidos. Hay más usuarios que quieren tener nuestras creaciones en diferentes países. En esta charla vamos a ver cómo convertimos una app para que esté preparada para los idiomas que ofrece App Store (traductor no incluido). Hagamos que nuestra app sea accesible a más usuarios, y conquistemos el mundo!
 
 Applications are not just for Argentina or the United States. There are more users who want to have our creations in different countries. In this talk we will see how to prepare an application so that it is prepared for the languages offered by the App Store (translator not included). Let's make our app accessible to more users, and let's conquer the world!
 
-## About me
+## Sobre mi / About me
+
+Pueden contactarme en [https://alemohamad.com/](https://alemohamad.com/) si quieren trabajar conmigo o si quieren hablar sobre esta presentación.
 
 You can reach me at [https://alemohamad.com/](https://alemohamad.com/) if you want to work with me or give me feedback about this talk.
 
