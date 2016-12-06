@@ -1,0 +1,17 @@
+/* Title of the alert message. */
+"Greetings!" = "Saudações!";
+
+/* Message saying hello to the user. */
+"Hello %@!
+Thanks for using our app. :D" = "Olá %@!
+Obrigado por usar o nosso aplicativo. :D";
+
+/* Button action when the name is not empty. */
+"OK" = "Está bem";
+
+/* Button action when the name is empty. */
+"Oh, no!" = "Ah não!";
+
+/* Message for the user when the name is empty. */
+"So you don't want to be greeted by this app? Don't you like us?" = "Então você não quer ser recebido por este aplicativo? Você não gosta de nós?";
+

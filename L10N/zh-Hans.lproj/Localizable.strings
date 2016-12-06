@@ -1,0 +1,17 @@
+/* Title of the alert message. */
+"Greetings!" = "问候！";
+
+/* Message saying hello to the user. */
+"Hello %@!
+Thanks for using our app. :D" = "你好%@！
+感谢您使用我们的应用程序。";
+
+/* Button action when the name is not empty. */
+"OK" = "好";
+
+/* Button action when the name is empty. */
+"Oh, no!" = "不好了！";
+
+/* Message for the user when the name is empty. */
+"So you don't want to be greeted by this app? Don't you like us?" = "所以你不想被这个应用程序打招呼？ 你不喜欢我们吗？";
+

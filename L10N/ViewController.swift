@@ -31,12 +31,15 @@ class ViewController: UIViewController {
     @IBAction func sayHelloTapped(_ sender: UIButton) {
         if let username = nameTextField.text {
             if username.isEmpty {
-                alertMessage = "So you don't want to be greeted by this app? Don't you like us?"
-                actionButtonLabel = "Oh, no!"
+                alertMessage = NSLocalizedString("So you don't want to be greeted by this app? Don't you like us?", comment: "Message for the user when the name is empty.")
+                actionButtonLabel = NSLocalizedString("Oh, no!", comment: "Button action when the name is empty.")
             }
             else {
-                alertMessage = "Hello \(username)!\nThanks for using our app. :D"
-                actionButtonLabel = "OK"
+                alertMessage = String.localizedStringWithFormat(
+                    NSLocalizedString("Hello %@!\nThanks for using our app. :D", comment: "Message saying hello to the user."),
+                    username
+                )
+                actionButtonLabel = NSLocalizedString("OK", comment: "Button action when the name is not empty.")
             }
         }
         
@@ -45,7 +48,7 @@ class ViewController: UIViewController {
     
     // MARK: - Functions
     func showAlertMessage() {
-        let alertTitle = "Greetings!"
+        let alertTitle = NSLocalizedString("Greetings!", comment: "Title of the alert message.")
         let alertController = UIAlertController(title: alertTitle, message: alertMessage, preferredStyle: .alert)
         let okAction = UIAlertAction(title: actionButtonLabel, style: .default)
         alertController.addAction(okAction)

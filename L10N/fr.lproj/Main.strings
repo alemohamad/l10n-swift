@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "We are learning how to work with localization."; ObjectID = "1mB-Fy-wXl"; */
+"1mB-Fy-wXl.text" = "Nous apprenons à travailler avec la localisation.";
+
+/* Class = "UINavigationItem"; title = "Greetings App"; ObjectID = "QUr-Ue-r0v"; */
+"QUr-Ue-r0v.title" = "App de salutations";
+
+/* Class = "UITextField"; placeholder = "Your name"; ObjectID = "c1a-SA-bXf"; */
+"c1a-SA-bXf.placeholder" = "Votre nom";
+
+/* Class = "UIButton"; normalTitle = "Say hello!"; ObjectID = "fO0-Tb-11H"; */
+"fO0-Tb-11H.normalTitle" = "Dis bonjour!";
+
